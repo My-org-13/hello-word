@@ -1,1 +1,3 @@
-println ("Hello World")
+def call(name){
+  echo "${name}"
+}
